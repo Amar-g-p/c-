@@ -1,1 +1,1 @@
-Sum = 50
+Total_cost:250
