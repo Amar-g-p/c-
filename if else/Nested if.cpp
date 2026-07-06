@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-int age = 20;
+int age = age;
 bool isCitizen = true;
-
+cin >> age;
 if (age >= 18) {
   cout << "Old enough to vote.\n";
 
