@@ -1,5 +1,1 @@
-volvo
-BMW
-TATA
-Ford
-Tesla
+The lowest age is: 18
