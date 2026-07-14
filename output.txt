@@ -1,3 +1,2 @@
-How many guests? Enter name for guest 1: 
-Guests checked in:
-Amar
+Fahrenheit: 98.8
+Convert Farenheit to Celsius: 37.1111
