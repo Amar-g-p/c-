@@ -1,2 +1,1 @@
-Fahrenheit: 98.8
-Convert Farenheit to Celsius: 37.1111
+Factorial of 9 is: 362880
